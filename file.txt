@@ -11,3 +11,4 @@ This line too!
 this is only in file.txt
 This line added from GitHub.
 authortest
+newline
